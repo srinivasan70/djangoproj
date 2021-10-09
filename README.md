@@ -1,0 +1,2 @@
+# djangoproj
+Django Applications
